@@ -1,5 +1,5 @@
 '''
-This is the code used by academic research in College English IV course 
+This is the code used for academic research in College English IV course 
 
 Multivariate Linear Regression
 Hong-Gang Zou, Yu-Tai Li, Li-Hang Hu, Chen-Hao Zhang
